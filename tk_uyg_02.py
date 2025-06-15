@@ -1,0 +1,1 @@
+# Test amacıyla yazılmıştır.
